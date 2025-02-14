@@ -1,0 +1,14 @@
+[17-02:47 2025-02-14] [INFO]: 	Running Lighthouse audit on homepage
+
+
+-------- playwright lighthouse audit reports --------
+
+
+performance record is 1 and desired threshold was 1
+accessibility record is 84 and desired threshold was 70
+best-practices record is 56.00000000000001 and desired threshold was 50
+seo record is 83 and desired threshold was 70
+[17-02:27 2025-02-14] [INFO]: 	performance: 1
+[17-02:27 2025-02-14] [INFO]: 	accessibility: 84
+[17-02:27 2025-02-14] [INFO]: 	best-practices: 56
+[17-02:27 2025-02-14] [INFO]: 	seo: 83

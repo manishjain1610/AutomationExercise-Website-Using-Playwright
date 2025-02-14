@@ -1,0 +1,53 @@
+[17-02:50 2025-02-14] [INFO]: 	Loading Website Home Page
+[17-02:53 2025-02-14] [INFO]: 	Navigating to Products Page
+[17-02:53 2025-02-14] [INFO]: 	Navigating to Products page
+[17-02:54 2025-02-14] [INFO]: 	Selecting Specified Product
+[17-02:54 2025-02-14] [INFO]: 	Listing all products
+Product count is 34
+[17-02:54 2025-02-14] [INFO]: 	Product 1: Blue Top
+[17-02:54 2025-02-14] [INFO]: 	Product 2: Men Tshirt
+[17-02:54 2025-02-14] [INFO]: 	Product 3: Sleeveless Dress
+[17-02:54 2025-02-14] [INFO]: 	Product 4: Stylish Dress
+[17-02:54 2025-02-14] [INFO]: 	Product 5: Winter Top
+[17-02:54 2025-02-14] [INFO]: 	Product 6: Summer White Top
+[17-02:54 2025-02-14] [INFO]: 	Product 7: Madame Top For Women
+[17-02:54 2025-02-14] [INFO]: 	Product 8: Fancy Green Top
+[17-02:54 2025-02-14] [INFO]: 	Product 9: Sleeves Printed Top - White
+[17-02:55 2025-02-14] [INFO]: 	Product 10: Half Sleeves Top Schiffli Detailing - Pink
+[17-02:55 2025-02-14] [INFO]: 	Product 11: Frozen Tops For Kids
+[17-02:55 2025-02-14] [INFO]: 	Product 12: Full Sleeves Top Cherry - Pink
+[17-02:55 2025-02-14] [INFO]: 	Product 13: Printed Off Shoulder Top - White
+[17-02:55 2025-02-14] [INFO]: 	Product 14: Sleeves Top and Short - Blue & Pink
+[17-02:55 2025-02-14] [INFO]: 	Product 15: Little Girls Mr. Panda Shirt
+[17-02:55 2025-02-14] [INFO]: 	Product 16: Sleeveless Unicorn Patch Gown - Pink
+[17-02:55 2025-02-14] [INFO]: 	Product 17: Cotton Mull Embroidered Dress
+[17-02:55 2025-02-14] [INFO]: 	Product 18: Blue Cotton Indie Mickey Dress
+[17-02:55 2025-02-14] [INFO]: 	Product 19: Long Maxi Tulle Fancy Dress Up Outfits -Pink
+[17-02:55 2025-02-14] [INFO]: 	Product 20: Sleeveless Unicorn Print Fit & Flare Net Dress - Multi
+[17-02:55 2025-02-14] [INFO]: 	Product 21: Colour Blocked Shirt – Sky Blue
+[17-02:55 2025-02-14] [INFO]: 	Product 22: Pure Cotton V-Neck T-Shirt
+[17-02:55 2025-02-14] [INFO]: 	Product 23: Green Side Placket Detail T-Shirt
+[17-02:55 2025-02-14] [INFO]: 	Product 24: Premium Polo T-Shirts
+[17-02:55 2025-02-14] [INFO]: 	Product 25: Pure Cotton Neon Green Tshirt
+[17-02:55 2025-02-14] [INFO]: 	Product 26: Soft Stretch Jeans
+[17-02:55 2025-02-14] [INFO]: 	Product 27: Regular Fit Straight Jeans
+[17-02:55 2025-02-14] [INFO]: 	Product 28: Grunt Blue Slim Fit Jeans
+[17-02:55 2025-02-14] [INFO]: 	Product 29: Rose Pink Embroidered Maxi Dress
+[17-02:55 2025-02-14] [INFO]: 	Product 30: Cotton Silk Hand Block Print Saree
+[17-02:55 2025-02-14] [INFO]: 	Product 31: Rust Red Linen Saree
+[17-02:55 2025-02-14] [INFO]: 	Product 32: Beautiful Peacock Blue Cotton Linen Saree
+[17-02:55 2025-02-14] [INFO]: 	Product 33: Lace Top For Women
+[17-02:55 2025-02-14] [INFO]: 	Product 34: GRAPHIC DESIGN MEN T SHIRT - BLUE
+Product to be select is 3
+[17-02:55 2025-02-14] [INFO]: 	Setting quantity to 5
+[17-02:55 2025-02-14] [INFO]: 	Setting quantity to 5
+[17-02:56 2025-02-14] [INFO]: 	Adding product to cart
+[17-02:56 2025-02-14] [INFO]: 	Adding product to cart
+[17-02:57 2025-02-14] [INFO]: 	Viewing product in cart
+[17-02:57 2025-02-14] [INFO]: 	Proceeding to checkout
+[17-02:57 2025-02-14] [INFO]: 	Registering new user
+[17-02:57 2025-02-14] [INFO]: 	Signing up new user
+[17-02:59 2025-02-14] [INFO]: 	Entering new user details
+[17-02:01 2025-02-14] [INFO]: 	Verifying account creation
+[17-02:01 2025-02-14] [INFO]: 	Verified that account has been succesfully created.
+[17-02:01 2025-02-14] [INFO]: 	Logging out
