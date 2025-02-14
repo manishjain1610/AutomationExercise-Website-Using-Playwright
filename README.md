@@ -59,7 +59,7 @@ This project is an end-to-end testing framework built with Playwright and TypeSc
 
    After test execution, generate Allure report using -
 
-      - npm run allure:open
+      - npm run allure:generate
 
    To view Allure report -
 
