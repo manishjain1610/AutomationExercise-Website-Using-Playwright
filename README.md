@@ -21,30 +21,49 @@ This project is an end-to-end testing framework built with Playwright and TypeSc
 
 1. Move to installation directory:
 
-cd <Your Directory>
+   cd "Your Directory"
 
 2. Install dependencies:
+
    a. npm init -y
+
    b. npm install @playwright/test
+
    c. npx playwright install
+
    d. npm install -D allure-playwright
+
    e. npm install --save-dev eslint-plugin-playwright
+
    f. npm install --save-dev --save-exact prettier
+
    g. Copy .eslintrc.json and .prettierrc
+
    h. npm install winston (For logging)
+
    i. npm install csv-parse
+
    j. npm install @types/node --save-dev (For fs and path)
+
    k. npm install @faker-js/faker
+
    l. npm install --save-dev playwright-lighthouse playwright lighthouse
 
-3. For Allure Reports only:
+4. For Allure Reports only:
+
    Install Allure command line
-      npm install -g allure-commandline
+
+      - npm install -g allure-commandline
+
    Add the allure.bat file path to PATH environment variable
+
    After test execution, generate Allure report using -
-      npm run allure:open
+
+      - npm run allure:open
+
    To view Allure report -
-      npm run allure:open
+
+      - npm run allure:open
 
 
 ## Project Structure
@@ -69,24 +88,25 @@ cd <Your Directory>
 ├── playwright.config.ts               # Playwright configuration
 ├── package.json
 └── tsconfig.json
+```
 
 ## Running Tests
 
 ### Run tests with Allure report
-   npm run tests:chromeAllure
+   - npm run tests:chromeAllure
 
 ### Run tests in headed mode
-   npm run tests:chrome
+   - npm run tests:chrome
 
 ### Run tests in non-UI mode
-   npm run tests:chromeNoHeaded
+   - npm run tests:chromeNoHeaded
 
 ### Run tests for mobile viewport
-   npm run test:mobile    # Mobile viewport
+   - npm run test:mobile    # Mobile viewport
 
 
 ### Run performance tests
-   npm run lighthouse
+   - npm run lighthouse
 
 
 ## Test Scenarios
